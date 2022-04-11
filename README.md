@@ -1,18 +1,9 @@
-# [/mjg/ Repository](https://repo.riichi.moe)
+# [/mjg/ Repository](https://better-repo.github.io)
 
-[maajan repo](https://repo.riichi.moe) for the [maajan general](https://boards.4channel.org/vg/catalog#s=mjg). pls apply as repoanons, thanks. ~~No seriously, everybody is dead~~ there's people now, but help is still needed.
+Fork of [maajan repo](https://repo.riichi.moe) for the [maajan general](https://boards.4channel.org/vg/catalog#s=mjg). Removed anon's cringe fetish cluttering the main and library pages, and some unused files.
 
-[**How to contribute/become repoanon?**](https://github.com/vg-mjg/mjg-repo/blob/master/CONTRIBUTING.md)
+[**/mjg/ Repo Constitution**](https://github.com/better-repo/better-repo.github.io/blob/master/CONSTITUTION.md) Of historical interest. This fork is under the sole management of the organization owner. If you wish to contribute to this fork specifically, open a pull request, but there's no guarantee it will be upstreamed to here or the original repo.
 
-[**Easier method to become a repoanon**](https://drive.google.com/file/d/1feviU9YQ4o773XEDeZHyjKugNoM1hTgA/view)
 
-[**/mjg/ Repo Constitution**](https://github.com/vg-mjg/mjg-repo/blob/master/CONSTITUTION.md)
 
-[**Team page**](https://github.com/orgs/vg-mjg/teams/repoanons) <sub><sup>facebook...</sup></sub>
 
-# Reorganization Plans
-
-# To do
-- in the [issues](https://github.com/vg-mjg/mjg-repo/issues)
-
-Want your implement your own shit that nobody can deny? Hate github and shan't ever make an account? As usual just win a tourney/league/whatever and make the request, as stated in the repo constitution article 4 section 4.
